@@ -5,3 +5,14 @@ Requirements to run: <br />
 Python <br />
 Request <br />
 BeautifulSoup
+
+What was used to make the project: <br />
+VisualStudioCode <br />
+Powerpoint <br />
+GitHub <br />
+
+Download links: <br />
+Python - https://www.python.org/downloads/<br />
+VisualStudioCode - https://code.visualstudio.com/download<br />
+GitHub - https://code.visualstudio.com/download<br />
+
